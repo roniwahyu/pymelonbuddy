@@ -1,0 +1,8 @@
+streamlit==1.24.0
+sqlalchemy==2.0.19
+pandas==2.0.3
+plotly==5.15.0
+pillow==9.5.0
+numpy==1.24.3
+requests==2.31.0
+opencv-python==4.8.0.74
